@@ -7,7 +7,7 @@
 A collection of tools to measure and analyze frontrunning attacks on private
 pools such as [Flashbots](https://docs.flashbots.net). 
 
-Our team can be found [here](https://discord.gg/jHshh95a) and our data is free for download on our discord.
+Our team can be found [here](https://discord.gg/jHshh95a) and our data is free for download same discord.
 
 
 
